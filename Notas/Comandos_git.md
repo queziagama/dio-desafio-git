@@ -11,4 +11,5 @@
  - git add . ➔ prepara o git para o commit na máquina local
  - git commit -m  "comentário entre aspas duplas" ➔ faz o commit e inclui comentário, porém apenas no diretório local
  - git push ➔ envia os commits locais para a nuvem no github
+ - git pull origin master ➔ atualiza os arquivos no diretório local
 
