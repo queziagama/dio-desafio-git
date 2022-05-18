@@ -18,3 +18,7 @@ Por exemplo:
 Dependendo do conteúdo e forma do seu texto, o título 5 pode não ser tão eficiente.
 
   (...) 
+
+adicionar código utilize: ``
+
+`exemplo`
